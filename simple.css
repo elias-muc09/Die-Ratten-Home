@@ -755,3 +755,13 @@ sub {
     white-space: pre-wrap;
   }
 }
+
+
+/* I added from here*/
+
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000; /* Damit sie über dem Inhalt bleibt */
+}
