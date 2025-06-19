@@ -5,4 +5,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 150%;
+  height: 600;
+  margin-bottom: 32px; 
 }
