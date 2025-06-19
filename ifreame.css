@@ -1,0 +1,6 @@
+
+.iframe {
+  border-radius: 20px;
+  /* Optional: Um Überlauf zu verhindern */
+  overflow: hidden;
+}
