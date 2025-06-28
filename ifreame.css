@@ -10,17 +10,11 @@
 }
 
 
-
 .iframe2 {
-  border-radius: 20px;
-  overflow: hidden;
-  display: block;
   margin-left: -100px;
   margin-right: auto;
-  width: 150%;
-  height: 500px;
   margin-bottom: 32px; 
   width: 1366px;
   height: 768px; 
-  style="background: transparent;"
+  background: transparent;
 }
