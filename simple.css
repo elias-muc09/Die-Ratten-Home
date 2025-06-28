@@ -748,7 +748,7 @@ sub {
   mark {
     border: var(--border-width) solid var(--border);
   }
-  pre, table, figure, img, svg {
+  pre, table, figure, img {
     break-inside: avoid;
   }
   pre code {
