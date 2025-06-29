@@ -1,4 +1,4 @@
-# Simple.css {}
+# Die Ratten (The Rats - by Gerhart Hauptmann)
 
 Build of small website for german lesson
 
