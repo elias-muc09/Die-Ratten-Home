@@ -27,6 +27,6 @@ The design focuses on clean typography, simple navigation, and a distraction-fre
 
 ## Attribution
 
-- Text source: [ProjectGutenberg](https://www.gutenberg.org/ebooks/52952)
+- Text source: [Project Gutenberg](https://www.gutenberg.org/ebooks/52952)
 - Author: Gerhart Hauptmann
 - Website style inspiration: [Simple.css](https://simplecss.org/)
