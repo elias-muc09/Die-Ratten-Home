@@ -29,9 +29,4 @@ The design focuses on clean typography, simple navigation, and a distraction-fre
 
 - Text source: [ProjectGutenberg](https://www.gutenberg.org/ebooks/52952)
 - Author: Gerhart Hauptmann
-- Website style inspiration: Simple.css
-
-## License
-
-This project is for educational purposes only.  
-Please respect the licensing and public domain status of the source material used in the project .
+- Website style inspiration: [Simple.css](https://simplecss.org/)
